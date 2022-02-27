@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Evans and Mr. Penningtons prophesie: concerning seven yeers of plenty, and seven yeers of famine and pestilence. Fore-shewing, what strange events and effects will fall in this present yeer, 1655, now the seven years of plenty are past, and the seven yeers of famine and pestilence are now at hand. Declared in vision of visions out of the prophet David. Together with the coming of the Fifth monarchy. Also, a great conflict with that great and terrible dragon Satan. With divers other notable visions and revelations necessary to be published.</title>
+            <author>Evans, Arise, b. 1607.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84156</idno>
+            <idno type="STC">Wing E3462</idno>
+            <idno type="STC">Thomason E823_6</idno>
+            <idno type="STC">ESTC R207669</idno>
+            <idno type="EEBO-CITATION">99866707</idno>
+            <idno type="PROQUEST">99866707</idno>
+            <idno type="VID">168031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168031)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E823[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Evans and Mr. Penningtons prophesie: concerning seven yeers of plenty, and seven yeers of famine and pestilence. Fore-shewing, what strange events and effects will fall in this present yeer, 1655, now the seven years of plenty are past, and the seven yeers of famine and pestilence are now at hand. Declared in vision of visions out of the prophet David. Together with the coming of the Fifth monarchy. Also, a great conflict with that great and terrible dragon Satan. With divers other notable visions and revelations necessary to be published.</title>
+                  <author>Evans, Arise, b. 1607.</author>
+                  <author>Pennington, William, fl. 1655.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotations on Thomason copy: "Jan. 12"; the final '5' in the imprint has been crossed out and replaced with "165" [sic].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+               <term>Millennialism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  Forecasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168031:1" rendition="simple:additions"/>
+            <p>Mr. Evans and Mr. Penningtons PROPHESIE: CONCERNING Seven Yeers of Plenty, and ſeven Yeers of Famine and peſtilence. Fore-Shewing, What ſtrange events and effects will fall in this preſent Yeer, 1655, now the ſeven yeers of Plenty are paſt, and the ſeven yeers of Famine and Peſti<g ref="char:EOLhyphen"/>lence are now at hand. Declared in the Viſion of Viſions out of the Prophet Daniel. Together with the coming of the Fifth MONARCHY. Alſo, a great Conflict with that great and terrible Dragon Satan. With divers other notable Viſions and Revelations neceſſary to be publiſhed.</p>
+            <p>Printed in the yeer, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168031:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:168031:2"/>
+            <p>VPon the 2: of <hi>Jan,</hi> 1649, was dream'd that <hi>William Penning<g ref="char:EOLhyphen"/>ton</hi> had a Mattock in his hands, readie to pave the ſtreets of Paradice, with all ſorts of precious Stones, and a voice came at the ſame time, ſaying, behold, diligence and patience overcome all things,</p>
+            <p>Vpon <hi>May</hi> the 3. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Was revealed by Viſion, that a multitude of men women and children roſe up againſt me, with Clubs, Canes, and Hobby-Horſes, and at that moment, when my Brains were rea<g ref="char:EOLhyphen"/>dy to be beaten out, I was reſcued by a woman; ſaying theſe words the Secret of all Secrets, which I have always obſerved: this Secret was the whitening of the Spiritual Pearl, foretelling ſeaven years of plenty, and ſeaven of Famine, the ſeaven years of Plenty are paſt and now comes the Famine; ſo that I lived now by gathering in the, plentious years paſt, which though it were but a graine of Muſtard<g ref="char:EOLhyphen"/>ſeed, yet it ſhall ſo increaſe that the Birds of the Ayre ſhall lodg in it, from whence ſhal fall feeding for the Hen and Chickins.</p>
+            <p>
+               <hi>September</hi> 3. 1653. A Viſion repreſented me to have fallen into a ditch as white as ſnow, and my head was covered all over with ſalt, and a voice came unto me, ſaying, go and cry againſt this Na<g ref="char:EOLhyphen"/>tion, for Sin come out of her, O my people leaſt you partake of her Sins: and I heard another voice ſaying, <hi>Babylon</hi> is fallen, <hi>Babylon</hi> the great is fallen <hi>Amen. Halleliuah</hi> 2.</p>
+            <p>The Viſion of <hi>William Pennington,</hi> — Which was revealed unto him the 20. day of <hi>June,</hi> 1654. As it pleaſed the Lord to caſt his Servant into a deep fleepe, where I ſaw a ſight too glo<g ref="char:EOLhyphen"/>rious for ſinful fleſh to behold, and I heard a voice ſaying, Pen my Son pen, ariſe and denounce Judgment againſt this nation, and be<g ref="char:EOLhyphen"/>hold I ſaw a paire of Staires, and an Angel of the top thereof, who lifted me up from below unto the higheſt Staire, and blew into my care, and ſuddenly I ſaw great London, or rather the Map of it, ap<g ref="char:EOLhyphen"/>pearing upon a Sign-poſt, and the Angel ſaid, ſeeſt thou all theſe glorious ſtructures, theſe excellent beauties, theſe pollitique brains, I ſay unto thee, there not one ſtone be left on another, within theſe few years, and the Lord ſhal blaſt all theſe beauties with the ſmall Pox, and the Politicians ſhal fall into the pit they have digged for others and ſuddenly I heard a huge clap of thunder, and a Voice ſaying, theſe words are mighty and true, bleſſed are thoſe that be<g ref="char:EOLhyphen"/>live, and another Angel tooke a handful of crums and ſcattered them on the earth, and a young man with a Crown of Gold on his head gathered the crums, and under his wing many thouſand poor
+<pb n="2" facs="tcp:168031:3"/>ſouls that have ſuffered for conſcience ſake; and ſilence was then commanded, and behold I ſaw other Angels with ſicles in their hands ſaying, behold, harveſt is now at hand, and I was raviſhed with joy and awaked.</p>
+            <p>Upon the 6: of <hi>Iuly</hi> laſt paſt 1654. as I ſtood awake in my own ima<g ref="char:EOLhyphen"/>gination neare <hi>Alderſgate</hi> I ſaw King <hi>Iames</hi> pictured over the gate riding on his daple gray, and a voice ſaid, wondereſt thou not the ſlow riding of this Monark, for me thought his horſe ſtood ſtil and he could not move him with his ſpurs, then ſaid the voice, look, a ſtory higher, and I beheld from the Zeads two white feet with a paire of wings, and they came down with ſuch incredible ſwiftneſs like the ropes of a Bel, and ſetled on my head, then I looked and ſaw a young man, but could not feel any weight, and he ſaid unto me ſtand ſure for I wil not offend you, then the winds fel a bluſte<g ref="char:EOLhyphen"/>ring ſo ſtrongly that the houſes were ſhaken, and many fel to the ground, then the young man gathered theſe winds together and put them <hi>all</hi> into four bladders ſaying, I am your Maſter, and I have power ouer you, then there was a great calm, and behold a multi<g ref="char:EOLhyphen"/>tude of women and children came to jeere the winds, which brake out into worſe diſorders and conſumed <hi>all</hi> the people round about, but the young man ſaid, it is enough I come not to deſtroy more, for the <hi>Hitties</hi> and the <hi>Amorites</hi> are <hi>all</hi> rooted out, then the yonng man dasht the Crown of his head in peeces and was carried on my ſhoulder to <hi>Foſter-Lane,</hi> where he had a Crown put on his head ſo weighty that I was not able to ſupport the burden, then he gave me a white ſatten Cap beſtuck with pearls ſaying, now your expec<g ref="char:EOLhyphen"/>tation was at an end, and this is fitteer for you then a Crown of gold, then me thought I anſwered I am ſatisfied, bleſſed be my eyes that have ſeen this day, and my ears that baue heard theſe ſounds and my mother that boare me, becauſe I now ſee the wil of the Lord performed and ſuddenly I awaked.</p>
+            <div type="part">
+               <head>A Conflict with the Dragon.</head>
+               <p>ON the 12 day of <hi>September,</hi> walking toward <hi>Lambs-Conduit,</hi> there ceme to me a man Riding upon an Aſo, and leading ano<g ref="char:EOLhyphen"/>ther in his hand, he alighted and took me by the breeches and threw me upon the other Aſs, and carried me away out of my knowledge into a place where the ground was al covered with venemous Beaſts, which did leape up at me, and there was a ſulferrons ſmell that had wel nigh choaked me, and he carried me into a pit, where I was going down ſtil, and yet we came to no bottom; at length we
+<pb n="3" facs="tcp:168031:3"/>came to a place that was as narrow as a chimney, and at the bot<g ref="char:EOLhyphen"/>tom he brought me to a room of a very great vaſtneſs wherein there were many ſouls tormented and toſſed up and down with forks of Iron. and endeavoured to puſh me in, but <hi>I</hi> was too ſtrong for him; whereupon he opened a doore hehind a Courtain, and bid mede<g ref="char:EOLhyphen"/>part; I went two days and nights, without meeting any one, at length I met an old man with a long beard, and he gave me an Ap<g ref="char:EOLhyphen"/>ple and bid me eat it, and it would bring me into my way; going along eating my apple, there ran between my legs a great Boare and carried me away with grret ſwiftneſs that <hi>I</hi> was bereaved of my ſight, at length he threw me down and cryed. go thy ways with a vengeance, and do thy work; and preſently my ſight came to me, and <hi>I</hi> was hard by <hi>Lams-Conduit,</hi> where I was thrown upon the Aſs.</p>
+               <p>Jn the dead of night <hi>I</hi> was, much troubled in my reſt, and my Bed and Chamber did rock like a Ship upon the vaſt Ocean, and the noiſe of guns greater and ſmaller, <hi>I</hi> did perfectly heare with pittiful out-crys and groans of many people, as though they were in my Chamber or in ſhip; this ſtorm continuing, and we wanting Sea room. we caſt Anchor, but the violence of the ſtorm continuing, ſo violently, we were forc'e to quit our anchors and commit all to provivence <hi>J</hi> was droven uppon a Rock, where my veſſel was beat to picees, and upon a piece of the Maſt I eſcaped to the ſhore, the reſt being drowne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; I travelling ſome two days and nights without eating or drinking; almoſt diſpairing of hope of life; the next mor<g ref="char:EOLhyphen"/>ning early, I came into a place where there were multitudes of Or<g ref="char:EOLhyphen"/>chards, with fruit only on the top boughs but very faire, and it was revealed unto me, go up and gather to preſerve thy life, and I did ſo, and eare long, thou ſhal be able to preſerve both thy life and o<g ref="char:EOLhyphen"/>thers; immediately after I fel a ſleep, and when I awaked! was in my own bed.</p>
+            </div>
+            <div type="part">
+               <head>Another Viſion of William Pennigton.</head>
+               <p>IT ſeemed to me that I was in a deſert, where I heard the crys and howlings of terrible wild Beaſts, and I looked about and ſaw a multitude of people of al ſorts, I did approach them, and immediate<g ref="char:EOLunhyphen"/>ly there did ruſh out of a wood three Rams, which ran amongſt the people, and did overturn many of them, and diſperſed the reſt; I was gotten upon the ſtump of an old decayed Tree, expecting the event; the biggeſt of theſe Rams did approach to the Tree where was, accompanied with the other two leſſer Rams, and rubbed him<g ref="char:EOLhyphen"/>ſelf to and froe againſt the Tree, and I heard a voice ſaying unto me,
+<pb n="4" facs="tcp:168031:4"/>feare not thou that fitteſt upon the Tree, thou haſt been faithful in a little, I wil make the ruler over much, and being ſurprized and ef<g ref="char:EOLhyphen"/>fected with ſudden joy I ſtarted and awaked.</p>
+            </div>
+            <div type="part">
+               <head>A Conflict with Satan in Moorfields, upon the tenth of Decemb. <hi>1654.</hi>
+               </head>
+               <p>AS I walkt in Moorfields, me thought there came to me a young man clothed in white, I askt him the way into <hi>Canaan,</hi> and he directed me into a dark Forreſt, where was nothing but Owls, Snakes and Bats, the trees being all covered with glow-worms; I aske him his name, and he told me, he was called <hi>Bunhil,</hi> and that he was a Miller by his trade: He askt me to drink with him, and car<g ref="char:EOLhyphen"/>ried me into a dark Cave, where the Hoſteſs came to us and brought us Ale in an old Lamp, which was ful of <hi>Aquafortis.</hi> The young man drank to me, but when I taſted it, it had like to have choakt mee; then I turned to blow my noſe, and I ſaw a company of hoggs; theſe, ſaid the young man, are the heard of Swine that came from <hi>Gazaret,</hi> and deſired me to ſlay and eat. With that, <hi>J</hi> miſtruſting him, trnued up his petticoat, which he had under a long robe hee wore, and found his feet to be cloven, and his cods were made af<g ref="char:EOLhyphen"/>ter the faſhion of milkpails, then ſaid a voice, this is the great dra<g ref="char:EOLhyphen"/>gon, bind him, and <hi>I</hi> took 2 yards of white yncle, and bound him to the earth, and a voice anſwered, Tis enough. <hi>Hallelujah.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Another</hi> Viſion of William Pennington.</head>
+               <p>IT hapned that I fell into a dead ſleep, and dreamed that <hi>J</hi> ſaw a man coming toward me, in a long black robe, and he awake<g ref="char:EOLhyphen"/>ned me, and told me, I muſt go along with him. <hi>J</hi> askt his name, &amp; he told me his name was <hi>Trompington:</hi> He told me likewiſe, that it was neceſſary for me to go with him. <hi>J</hi> aroſe and he led me through a very narrow lane, where the boughs cratched me by the face; we went along til wee came to a thick wood, where the trees were hung with all ſorts of weapons fitting for war, he took one and bid me take another, and told me I muſt defend my ſelf, or I ſhould not eſcape his furie. I ſought with him, and cut off one of his legs, and fell to the ground, and I cut off his head immediately, and I heard a voyce ſaying unto me, thou haſt fought a good fight. then there aroſe one clothed in white, ſhining more glorious then the Sun, ſinging Hoſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na in the higheſt, <hi>glory be to God on high, and peace on earth, good will towards men,</hi> and immediately the body in white departed from Me.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:168031:4"/>
+               <head>The Viſion of Viſions declaring out of the Prophet Daniel the coming of the fifth Monarchy, the renewing of all Muſical inſtruments, as Or<g ref="char:EOLhyphen"/>gans, Cornets, Tabor and Pipe, for to rejoyce the hearts of all old Chriſtians, and the fall of Babylon the great,</head>
+               <p>
+                  <hi>ON the</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <hi>of Nov, between</hi> 2 <hi>&amp;</hi> 3 <hi>in the morning,</hi> I <hi>ſaw a throng of Nobles with trumpees blowing before them in</hi> S. Iames's <hi>Parke, with a Table ſpread with all ſorts of variety, with an abundance of women cloath'd in white attending the Tables and the ghoſt of K.</hi> James, <hi>deſcended from above, with great joy and pleaſure congratulated their jubilee, telling them that he beheld that which had not been ſeen in</hi> 15. <hi>yeers before, and calld their meeting the firſt Monarchy. Then the Bi<g ref="char:EOLhyphen"/>ſhops, Deans and Chapters, Singing men and Choriſters in their Copes and white Surplices ſung an Hallelujah, and from thence they led on to Weſtminſter, where barges were prepared, the Ordinances thrundring from Southwark, and from the Tower, and from thence to Greenwich, where</hi> I Wil. Pennington <hi>had deliverd to me the keys of the Caſtle for the behalf of me and my heirs for ever. Then</hi> I <hi>heard a voice telling me, this was the fruits of my yeilding, for ſo we call Beggers in our coun<g ref="char:EOLhyphen"/>trey, and that this was the interpretation of my emtying the Houſes of offices, ſo that</hi> I <hi>beholding this Viſion, do gather that the</hi> 5. <hi>Monarchy is coming, nay, neare at hand, which muſt come in with masking, dancing, and revelling in Courts, &amp; in country, with all manner of wakes &amp; feaſts, in ſo much that the very Cattel, oxen, and Horſes for a time ſhal be eaſed of their labour and travel, then ſhal the Bels ring, and Bonfiros ſhall blaze, and this ſhal cauſe ſtrangers to call England the burning land, becauſe mens hearts ſhal burn with joy and gladneſs, then ſhal gold come from Opher, and the ſtreets ſtal be paved with precious ſtones, and it ſhal be a Land ſlowing with Milk and Honey, then the Amorites and the Bruſites; and the lebuſites ſhal be driven out, and this is the Conſtruc<g ref="char:EOLhyphen"/>tion which</hi> I <hi>am able to draw out of this Viſion, onlic in the mean while Diligence and Patience muſt wait for the Tryal of lews and Gentiles, thoſe that have faith ſhal be admitted into this Land, and thoſe that have not, ſhal be turned under my ſhop board.</hi>
+               </p>
+               <pb n="6" facs="tcp:168031:5"/>
+               <p>Me thought on the 10. of December 1654: I ſaw three buſhels of Wheat, and when I came, to approach to touch them, they were de<g ref="char:EOLhyphen"/>miniſhed to a Peck, which ſtruck me into wonder, then I handled the Wheat and they ſwelled to an innumerable Meſs, enough to ſtore a whole Kingdom: this Wheat ſignifies the ſpoyle of a Kingdom, and the reſtoring of it by my means; this wheat was then lifted up and carried to the Univerſity of <hi>Oxford,</hi> to be as ſtore for the whole Land, it was all wrap't up in white Sheets, and they were all cut out into Surplices, which the Biſhops wore, and this wheat was ſtrung in Ropes like Beads, which the Biſhops wore about their Necks, then ſaid a voice, here is the true Catholique Religion, and I awaked.</p>
+               <p>Vpon the 6. of November about the dead of night, there appea<g ref="char:EOLhyphen"/>red unto me a great black Cloud on my left hand, which did often times iſſue forth great flames of fire, and there appeared out of the Cloud, many Monſters of hideous ſhapes, and about the upper end of the Cloud there appeared a great Monſter with a fyery face, more terrible than the reſt, and there went many Companies of fiens con<g ref="char:EOLhyphen"/>ſulting together, but ſhortly after they were diſturbed amongſt themſelves, and there was a very great noyſe, and there came a voice unto me ſaying, my Meſſenger ariſe and go and bring in the glorious white Cloud, and let the black Cloud be diſperſed, and after a little ſtrugling, the black Cloud was diſperſed, and many of thoſe hideous Monſters, with that ſyery Monſter, were deſtroyed, and there was a great ſhout, and incomparable muſike, with many harmonious voices, ſinging, Glorie be to God on high, and in earth peace, good wil towards men, and being raviſhed with joy I awake.</p>
+               <p>Vpon the 20 of <hi>December I</hi> beheld a woman coming out of the ground cloathed in Scarlet and gallant aray, and the Stars decen<g ref="char:EOLhyphen"/>ded and covered her, and put a Grown of Gold upon her he ad, ſaying, al out power, and al our luſtre do we bequeath unto thee; with that ſhe hegan to be puft up, grew inſolent; making wars with the Stars, and pull'd them al from their ſpheres unto the very ground on which they lay for dead for the ſpace of half an yeare, upon which they roſe, and with much ſtrugling brought her under them again, they ſpoiled her rich arayment, and having expoſed her our to the fowls of the aire, they threw oer down into the bottomleſs pit, and ſo lawaked.</p>
+               <trailer>Einis.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
